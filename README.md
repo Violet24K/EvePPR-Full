@@ -5,6 +5,10 @@ Full EvePPR Code (3 temporal scenarios) for Paper "Everything Evolves in Persona
 ## How to use
 We provide main code for each scenario. main.py is for edge insertion scenario; main_edge_attr_change.py is for the edge attribute change scenario; main_node_attr_change.py is for the node attribute change scenario; main_deletion.py is for the edge deletion scenario; main_osp is for the OSP baseline; main_ablation1.py is our ablation study one. Simply run the main code of the corresponding to your interested scenario.
 
+```bash
+python main.py
+```
+
 
 ## Reference
 ```
